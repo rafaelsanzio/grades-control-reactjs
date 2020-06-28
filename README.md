@@ -1,68 +1,50 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ <h1 align="center">
+  Grades Control ReactJS 🔖
+  <p align="center">
+  <img src="https://img.shields.io/badge/tech-front--end-green" />
 
-## Available Scripts
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/framework-reactjs-blue" />
+  </a>
 
-In the project directory, you can run:
+  <a href="https://www.igti.com.br/">
+    <img src="https://img.shields.io/badge/source-IGTI-9cf" />
+  </a>
+  </p>
+</h1>
+ 
+ ## 📝 Projeto 
 
-### `yarn start`
+- Grades Control, projeto criado para aprendizado de utilização de [ReactJS](https://pt-br.reactjs.org/ "ReactJS"), visando controle de notas por atividades (type) de cada matéria (subject).
+- **Frontend** (Web) para a API - [Grades Control](https://github.com/rafaelsanzio/grades-control-api "Grades Control")
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 💻 Tecnologias
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- <img width="20px" src="https://img.icons8.com/plasticine/2x/react.png" /> [ReactJS](https://pt-br.reactjs.org/ "ReactJS")
 
-### `yarn test`
+## ▶️ Getting Started
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Passo 1**: start no **backend** do projeto a partir de [Grades Control API](https://github.com/rafaelsanzio/grades-control-api "Grades Control")
+- **Passo 2**: git clone do projeto grades-control-reactjs
+```bash
+  # Navegando até a pasta do projeto
+  $ cd grades-control-reactjs
 
-### `yarn build`
+  # Instalando todas as depêndencias necessárias
+  $ npm||yarn install
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  # Starting o frontend da aplicação
+  $ npm||yarn start
+```
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## 📸 Imagens 
+<h1 align="center">
+    <img alt="Grades Control ReactJS" src="https://user-images.githubusercontent.com/18368947/85958006-8eb22b80-b968-11ea-8bf4-4f2febac1733.png" />
+</h1>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ㊗️ Considerações 
+- Projeto desenvolvido no Bootcamp - Full Stack da [IGTI](https://www.igti.com.br/ "IGTI")  by:
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- <img width="20px" src="https://img.icons8.com/fluent/96/github.png" /> [Rafael Sanzio](https://github.com/rafaelsanzio "Rafael Sanzio")
+ 
+- <img width="20px" src="https://img.icons8.com/color/2x/linkedin.png" /> [Rafael Sanzio](https://www.linkedin.com/in/rafael-sanzio-012778143/ "Rafael Sanzio")
