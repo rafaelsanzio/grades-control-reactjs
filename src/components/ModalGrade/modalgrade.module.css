@@ -1,0 +1,17 @@
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.errorMessage {
+  color: red;
+  font-weight: bold;
+}
+
+.title {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
